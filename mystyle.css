@@ -1,0 +1,25 @@
+h1{
+	color: red;
+}
+
+body{
+	background: #ccc;
+	margin: 20px;
+}
+
+p{
+	font-size: 20px;
+}
+
+ul{
+	font-size: 20px;
+}
+
+ul li{
+	font-size: 18px;
+	padding: 5px 0 5px 0;
+}
+
+a{
+	font-size: 20px;
+}
